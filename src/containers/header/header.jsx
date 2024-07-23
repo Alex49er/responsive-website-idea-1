@@ -20,15 +20,15 @@ const Header = () => {
 
         </div>
         <div className='gpt3__header-content__people'>
-          <img src={people} alt= 'people'/>
+          <img src={people} alt='people' />
           <p>1600 people have requested access</p>
 
         </div>
-        <div className='gpt3__header-img'>
-          <img src={ai} alt= 'ai' />
-
-        </div>
       </div>
+      <div className='gpt3__header-image'>
+        <img src={ai} alt='ai' />
+      </div>
+
     </div>
   )
 }
