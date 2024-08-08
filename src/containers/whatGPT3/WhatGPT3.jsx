@@ -1,6 +1,6 @@
 import React from 'react'
-import './whatGPT3.css'
-import { Feature } from '../../components'
+import { Feature } from '../../components';
+import './whatGPT3.css';
 
 const WhatGPT3 = () => {
   return (
@@ -21,6 +21,6 @@ const WhatGPT3 = () => {
       </div>
     </div>
   )
-}
+};
 
-export default WhatGPT3
+export default WhatGPT3;
